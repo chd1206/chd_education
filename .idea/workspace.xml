@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c925a4f1-13ce-4aea-90a6-313579f767b1" name="Default Changelist" comment="" />
+    <list default="true" id="c925a4f1-13ce-4aea-90a6-313579f767b1" name="Default Changelist" comment="创建我的教育网站">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chd_education.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chd_education.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +16,12 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -34,10 +45,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ChdEducationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chd_education" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chinachd.chd_education.ChdEducationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -61,22 +87,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587012512408</updated>
-      <workItem from="1587012556239" duration="248000" />
+      <workItem from="1587012556239" duration="1751000" />
     </task>
+    <task id="LOCAL-00001" summary="创建我的教育网站">
+      <created>1587013000477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587013000477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建我的教育网站" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建我的教育网站" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="211" y="0" key="CommitChangelistDialog2" timestamp="1587012711497">
+    <state x="211" y="0" key="CommitChangelistDialog2" timestamp="1587013345357">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="211" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1587012711497" />
+    <state x="211" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1587013345357" />
     <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1587012802841">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.688@0.0.1280.688" timestamp="1587012802841" />
+    <state x="498" y="234" width="284" height="287" key="Github.ShareDialog" timestamp="1587014342848">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="498" y="234" width="284" height="287" key="Github.ShareDialog/0.0.1280.688@0.0.1280.688" timestamp="1587014342848" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1587014314793">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.688@0.0.1280.688" timestamp="1587014314793" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1587014365786">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1587014365786" />
     <state x="471" y="136" key="svn.repositoryBrowser" timestamp="1587012924583">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
